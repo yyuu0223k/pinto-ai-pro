@@ -1,4 +1,6 @@
- 1. Install Firebase CLI
+https://pinto-ai-pro.web.app/ 
+
+1. Install Firebase CLI
       npm install -g firebase-tools
       firebase login
 2. Clone the Project
