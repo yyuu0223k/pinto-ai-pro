@@ -42,7 +42,7 @@ npm run build
 firebase init
 firebase deploy
 
-
+https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
 
 
 
